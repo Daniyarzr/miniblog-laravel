@@ -1,0 +1,13 @@
+vendor
+node_modules
+public/build
+storage/*.key
+storage/app
+storage/logs
+storage/framework
+composer.lock
+npm-debug.log*
+Dockerfile
+.git
+.gitignore
+docker-compose.yml
